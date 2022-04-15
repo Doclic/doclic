@@ -1,17 +1,3 @@
-<!--
-**Doclic/doclic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <h1>
     <img src="https://cdn.discordapp.com/attachments/877864597355372574/964469441335291944/Null_128.png">
@@ -53,3 +39,13 @@ I'm a Developer from France 🇫🇷
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPlusPlus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<br>
+<hr>
+
+### :fire: My stats on public repos:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=doclic&theme=highcontrast&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doclic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
