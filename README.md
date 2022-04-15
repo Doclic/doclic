@@ -20,7 +20,7 @@
 <br>
 <hr>
 
-## About me 🖥️
+## 🖥️ About me
 I'm a Developer from France 🇫🇷
 
 - <img src="https://cdn.freebiesupply.com/logos/large/2x/team-fortress-logo-png-transparent.png" width=18> I'm currently working on adding features to the 2020 Team Fortress 2 source code leak
@@ -32,7 +32,7 @@ I'm a Developer from France 🇫🇷
 <br>
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@ I'm a Developer from France 🇫🇷
 <br>
 <hr>
 
-### :fire: My stats on public repos:
+### 🔥 My stats on public repos:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=doclic&theme=highcontrast&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 <br>
