@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    <img src="https://cdn.discordapp.com/attachments/877864597355372574/964469441335291944/Null_128.png">
+    <img src="https://avatars.githubusercontent.com/u/30270428?v=4" width=128 height=128>
     <br>
     doclic
   </h1>
