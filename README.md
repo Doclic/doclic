@@ -12,6 +12,9 @@
     <a href="https://discord.com/users/471302644548501515">
       <img src="https://img.shields.io/badge/Discord-5662F6?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
     </a>
+    <a href="https://steamcommunity.com/id/doclic/">
+      <img src="https://img.shields.io/badge/Steam-1A475E?logo=Steam&logoColor=white&style=for-the-badge" alt="Steam Badge"/>
+    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=doclic&style=flat-square&color=blue" alt=""/>
