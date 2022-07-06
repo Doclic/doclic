@@ -9,7 +9,7 @@
     <a href="https://www.youtube.com/channel/UCse_VpM00_DNaWHQ7V5-Fpw">
       <img src="https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
     </a>
-    <a href="https://discord.com/users/471302644548501515">
+    <a href="https://discord.gg/vTPgujwg2q">
       <img src="https://img.shields.io/badge/Discord-5662F6?logo=Discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
     </a>
     <a href="https://steamcommunity.com/id/doclic/">
