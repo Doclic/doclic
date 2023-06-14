@@ -22,7 +22,7 @@ stupid french dev
 | Matrix  | @doclic:projectsegfau.lt |
 | Odysee  | [@Doclic](https://odysee.com/@Doclic:0) |
 | Email   | doclic@tutanota.com |
-| Discord | Doclic#8528 - [Server](https://discord.gg/vTPgujwg2q) |
+| Discord | doclic - [Server](https://discord.gg/vTPgujwg2q) |
 
 ## PGP
 ```
